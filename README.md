@@ -1,5 +1,5 @@
 
-![MasterHead](https://miro.medium.com/v2/format:webp/1*oUMxFU-AreyMhOGoI81gvw.png)
+![MasterHead](https://media.licdn.com/dms/image/v2/D4D12AQFOtVwp75w1bA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1727859342774?e=1785369600&v=beta&t=dM4ORghwkwAWzXR7mJN1BQ07SEturNRB50c_njKv9_Y)
 
 <h1 align="center"> Aslınur Keskinkılınç</h1>
 - 📫 How to reach me **aslikkilic4@gmail.com**
